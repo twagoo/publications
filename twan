@@ -1,0 +1,20 @@
+% Encoding: UTF8
+
+@InProceedings{freire_et_al:OASIcs:2019:10386,
+  author =      {Nuno Freire and Antoine Isaac and Twan Goosen and Daan Broeder and Hugo Manguinhas and Valentine Charles},
+  title =       {{Opening Digitized Newspapers Corpora: Europeana's Full-Text Data Interoperability Case}},
+  booktitle =   {2nd Conference on Language, Data and Knowledge (LDK 2019)},
+  pages =       {22:1--22:14},
+  series =      {OpenAccess Series in Informatics (OASIcs)},
+  ISBN =        {978-3-95977-105-4},
+  ISSN =        {2190-6807},
+  year =        {2019},
+  volume =      {70},
+  editor =      {Maria Eskevich and Gerard de Melo and Christian F{\"a}th and John P. McCrae and Paul Buitelaar and Christian Chiarcos and Bettina Klimek and Milan Dojchinovski},
+  publisher =   {Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+  address =     {Dagstuhl, Germany},
+  URL =         {http://drops.dagstuhl.de/opus/volltexte/2019/10386},
+  URN =         {urn:nbn:de:0030-drops-103869},
+  doi =         {10.4230/OASIcs.LDK.2019.22},
+  annote =      {Keywords: Metadata, Full-text, Interoperability, Data aggregation, Cultural Heritage, Research Infrastructures}
+}
